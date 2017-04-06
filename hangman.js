@@ -1,6 +1,6 @@
 //global variables
 var can_play = true;
-var names = new Array('JOHN', 'RYAN', 'OMAR', 'MARCUS', 'ANDY','NISHANT', 'TERRIL', 'MORRISON', 'DALLAS', 'DILLON', 'TREVOR',);
+var names = new Array('NISHANT', 'TERRIL', 'MORRISON', 'DALLAS', 'DILLON', 'TREVOR', 'JOHN', 'RYAN', 'OMAR', 'MARCUS', 'ANDY');
 var to_guess = "";
 var display_word = "";
 var used_letters = "";
